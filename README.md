@@ -1,6 +1,18 @@
-# Домашнее задание №2 к лекции «Классы, наследование»
+[![Build status](https://ci.appveyor.com/api/projects/status/e76mhu5qitiffhlu/branch/master?svg=true)](https://ci.appveyor.com/project/Nikitashalimov/methods/branch/master)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/4766s7pnggxq0ddk?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ajs-hw-5-2-methods)
+# Домашнее задание к лекции «Классы, наследование»
+
+**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
+
+**Важно**: код должен проходить ESLint без ошибок.
+
+**Важно**: тесты должны обеспечивать 100% покрытие тестируемых функций по строкам.
+
+**Важно**: решения должны быть построены на базе [шаблона Webpack](/ci-template).
+
+В личном кабинете на сайте [netology.ru](http://netology.ru/) в поле комментария к домашней работе вставьте ссылки на ваш GitHub-проекты.
+
+---
 
 ## Методы
 
